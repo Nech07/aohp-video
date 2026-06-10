@@ -39,6 +39,7 @@ Thumbs.db
 *.webm
 !/public/**/*.mp4
 !/public/**/*.webm
+!videos/aohp/public/aohp.mp4
 
 # Logs
 *.log
